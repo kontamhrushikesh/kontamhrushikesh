@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech in Electronics & Telecommunication Engineering with AI/ML Specialization
+🎓 B.Tech in Electronics & Telecommunication Engineering with AI/ML
 
 💻 Passionate about Software Development, AI, Machine Learning, Backend Development, and Data Analytics
 
