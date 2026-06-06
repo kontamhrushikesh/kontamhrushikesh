@@ -67,7 +67,7 @@
 ## Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react" />
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,seaborn" />
 </p>
 
 ---
