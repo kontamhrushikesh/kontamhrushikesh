@@ -16,7 +16,7 @@
 
 💻 Passionate about Software Development, AI, Machine Learning, Backend Development, and Data Analytics
 
-📊 Experienced in Data Analysis, Data Cleaning, Reporting, Visualization, and Business Insights
+📊 Experienced in Backend, Data Analysis, Data Cleaning, Reporting, Visualization, and Business Insights
 
 🌱 Currently learning:
 - Advanced Backend Development
