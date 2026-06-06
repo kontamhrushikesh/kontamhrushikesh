@@ -142,24 +142,6 @@ Become a world-class Software Engineer building impactful products powered by AI
 - Deep Learning
 - System Design
 - Data Structures & Algorithms
-
----
-
-# 📊 Coding Profiles
-
-- LeetCode
-- HackerRank
-- GitHub
-- GeeksforGeeks
-
-(Add your profile links)
-
----
-
-# ⚡ Fun Fact
-
-> "Set the goal. Choose the strategy. Execute relentlessly. Review honestly. Never let emotion overpower discipline and commitment."
-
 ---
 
 <div align="center">
