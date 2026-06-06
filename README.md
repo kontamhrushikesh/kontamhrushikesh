@@ -101,16 +101,6 @@ Become a world-class Software Engineer building impactful products powered by AI
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kontamhrushikesh&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kontamhrushikesh&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -118,16 +108,6 @@ Become a world-class Software Engineer building impactful products powered by AI
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=kontamhrushikesh&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kontamhrushikesh&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
