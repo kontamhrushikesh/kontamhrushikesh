@@ -34,9 +34,6 @@
 - Trading Systems
 - Data Engineering
 
-🎯 Goal:
-Become a world-class Software Engineer building impactful products powered by AI and Data.
-
 ---
 
 ## 🌐 Connect With Me
