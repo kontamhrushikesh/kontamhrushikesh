@@ -103,7 +103,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kontamhrushikesh&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=kontamhrushikesh&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
