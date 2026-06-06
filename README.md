@@ -110,17 +110,6 @@
 
 ---
 
-# 📚 Currently Learning
-
-- Advanced Python
-- FastAPI
-- MongoDB
-- Machine Learning
-- Deep Learning
-- System Design
-- Data Structures & Algorithms
----
-
 <div align="center">
 
 ### Thanks for visiting my profile ❤️
