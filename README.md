@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Hrushikesh Kontam
 
-###  Python Developer | AI/ML Engineer | Data Analyst
+###  Python Developer | Java Developer | AI/ML Engineer | Data Analyst
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Python+Developer;Java+Developer;AI%2FML+Engineer;Data+Analyst;" alt="Typing SVG" />
 
